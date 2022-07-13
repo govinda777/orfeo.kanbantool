@@ -1,10 +1,7 @@
-# Orfeo.Kanbantool
-
-## Objetivo
-
-Pacote responsável por diponibilidar a comunicação do Orfeo com kanbantool
+# Curso-Python-3-parte-2-Avan-ando-na-linguagem-capitulo7
 
 ## Como instalar
+
 
 ```cmd
 
@@ -20,7 +17,6 @@ npm install
 npm start
 
 ```
-
 ## Como testar
 
 
@@ -29,4 +25,6 @@ npm start
 npm test
 
 ```
+
+
 

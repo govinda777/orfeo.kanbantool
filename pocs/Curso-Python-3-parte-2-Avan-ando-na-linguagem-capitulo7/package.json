@@ -1,0 +1,22 @@
+{
+  "name": "pocs.curso.python3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 jogos.py",
+    "test": "echo \"Error: Teste 124 no test specified\" && exit 1"
+  },
+  "keywords": [
+    "py",
+    "kanbantool",
+    "kanban",
+    "tool",
+    "https://www.alura.com.br/curso-online-python-3-avancando-na-linguagem"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "pytest": "^1.0.0"
+  }
+}
